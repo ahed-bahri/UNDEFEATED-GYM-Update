@@ -2,8 +2,8 @@
 
 
 🏆 UNDEFEATED GYM 🥇
-It is more than gym, it like big family that pushes you to success because that is what we believe in, and our goal is that you are satisfied about your results and what you achieved.
-Let your body talk, show them what you are capable of. BECAUSE if you have a nice car you won't keep it in th garage, would you ? 
+It is more than gym, it like big family that pushes you to success because that is what we believe in, and our goal is that you are satisfied about your results and what you've achieved.
+So Let your body talk, show them what you are capable of.
 💻 This Project is done with big love using the power of Bootstrap, and many amazing jQuery plugins, and of course Javascript language and Html5, CSS3, and PHP for backend and Ajax for search.
 
 
